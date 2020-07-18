@@ -1,2 +1,2 @@
-# class-35-Structuring-Code
-Game
+# synchronousBallMovement
+Ball moving synchronously
